@@ -1,4 +1,4 @@
-#include "diskr.h"
+#include "diskr.h"//asd
 
 float diskr(int a, int b, int c)
 {
